@@ -1,0 +1,196 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+}
+
+span{
+  color: #5E4FFF;
+}
+
+#icons {
+  margin-top: -44em;
+  padding-left: 10em;
+}
+
+#icons {
+  margin-left: 50em;
+}
+
+#main {
+  display: flex;
+  flex-direction: column;
+  padding-top: 10em;
+}
+
+#text-main {
+  font-size: 50px;
+  margin-top: 1em;
+  margin-left: 1.3em;
+}
+
+#icons img {
+  height: 50em;
+  width: 50em;
+  pointer-events: none;
+}
+
+#main-btn  button{
+  background-color: #232838;
+  height: 97px;
+  width: 400px;
+  border: none;
+  border-radius: 30px;
+  color: #fff;
+  font-size: 30px;
+  cursor: pointer;
+  margin-top: 9em;
+  margin-left: 2em;
+}
+
+#main-btn  button:hover{
+  background-color: #171b25;
+}
+
+#skilldiv {
+  display: flex;
+}
+
+#textSkill {
+  padding-left: 2em;
+  font-size: 20px;
+}
+
+#skill1 {
+  background-color: #E6FFD6;
+  width: 50em;
+  height: 13em; 
+  border-radius: 30px;
+  margin-left: 2em;
+}
+
+#skill1 #title {
+  margin-left: 24em;
+  margin-top: -5em;
+
+}
+
+#skill1 #desc {
+  margin-left: 15em;
+  font-size: 14px;  
+}
+
+#skill1 #logo  {
+  font-size: 40px;
+  margin-top: 1em;
+  margin-left: 0.5em;
+}
+
+#skills {
+  padding-top: 10em;
+}
+
+#Line {
+  height: 7em;
+  width: 10em;
+  color: #fff;
+  border-bottom: 2px solid #5E4FFF;
+}
+
+#skill2 {
+  background-color: #FFD9C3;
+  width: 50em;
+  height: 13em; 
+  border-radius: 30px;
+}
+
+#skill2 #title {
+  margin-left: 24em;
+  margin-top: -7.5em;
+
+}
+
+#skill2 #desc {
+  margin-left: 15em;
+  font-size: 14px;  
+}
+
+#skill2 #logo  {
+  font-size: 40px;
+  margin-top: 1em;
+  margin-left: 1em;
+}
+
+#skill1 #python, #java, #ruby,#c {
+  background-color: #D9D9D9;
+}
+
+#skill1 #lang {
+  display: flex;
+}
+
+#python, #java, #ruby, #c {
+  height: 1em;
+  width: 4em;
+  margin-right: 2em;
+}
+
+#java {
+  height: 1em;
+  width: 2em;
+  margin-right: 2em;
+}
+
+#ruby {
+  height: 1em;
+  width: 2.5em;
+  margin-right: 2em;
+}
+
+#c {
+  height: 1em;
+  width: 1em;
+  margin-right: 2em;
+}
+
+#lang {
+  margin-top: 3em;
+  margin-left: 16em;
+}
+
+#skill2 #lang {
+  display: flex;
+}
+
+#skill2 #dungeon, #snake  {
+  background-color: #D9D9D9;
+}
+
+#dungeon {
+  height: 1em;
+  width: 6.5em;
+  margin-right: 3em;
+}
+
+#snake {
+  height: 1em;
+  width: 4em;
+  margin-right: 2em;
+}
+
+#skilldiv {
+  margin-top: 8em;
+}
+
+#coursesdiv #desccourses {
+  font-size: 10px;
+  margin-top: 2em;
+}
+
+#coursesdiv {
+  margin-top: 5em;
+  padding-left: 3em;
+}

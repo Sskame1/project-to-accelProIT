@@ -1,0 +1,64 @@
+#Header { 
+    background-color: #fff;
+    height: 6em;
+    width: 100vw;
+    display: flex;
+
+}
+
+#Logo {
+    display: flex;
+    padding-right: 35em;
+    cursor: pointer;
+}
+
+#Logo img {
+    height: 8em;
+    width: 8em;
+    margin-top: -1em;
+}
+
+#Logo h1 {
+    padding-top: 0.4em;
+}
+
+#nav-header {
+    display: flex;
+    text-decoration: none;
+    
+}
+
+#nav a {
+    text-decoration: none;
+    padding-left: 3em;
+    font-weight: 500;
+    color: black;
+}
+
+#Header{
+    justify-content: center;
+}
+
+#social img {
+    height: 61px;
+    width: 61px;
+}
+
+#Logo, #nav-header {
+    margin-top: 2em;
+}
+
+#phone, #nav{
+    margin-top: 1em;
+}
+
+#phone {
+    padding-left: 2em;
+    color: #5E4FFF;
+    cursor: pointer;
+}
+
+#social img {
+    padding-left: 2em;
+    cursor: pointer;
+}
